@@ -1,5 +1,6 @@
 """
 input: runno, production directory
+output: filepath for runno
 
 production directory:
 data:

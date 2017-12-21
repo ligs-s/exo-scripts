@@ -64,6 +64,6 @@ def run_mc():
     return
 
 if __name__=='__main__':
-    #run_data('./list')
-    run_data([2966])
+    run_data('./list')
+    #run_data([2966])
     #run_mc()

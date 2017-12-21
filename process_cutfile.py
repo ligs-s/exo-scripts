@@ -1,3 +1,7 @@
+"""
+    process_cutfile() defines your operations on the preprocessed tree
+"""
+
 import ROOT
 import os, sys
 import numpy as np
